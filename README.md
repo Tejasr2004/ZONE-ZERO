@@ -36,7 +36,11 @@ A top-down 2D survival sandbox game built with Python and Pygame.
 
 ## Future Roadmap
 -Combat: Guns, melee weapons, and ammo.
+
 -Crafting: Combining items to make new ones.
+
 -Day/Night Cycle: Changing visibility and zombie aggression.
+
 -Saving/Loading: Saving your progress to a file.
+
 
